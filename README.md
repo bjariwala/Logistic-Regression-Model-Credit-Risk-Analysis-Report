@@ -80,6 +80,12 @@ Note that the result on your screen should resemble the following image:
 
 A screenshot depicts the name pydotplus and its version number.
 
+
+Summarize the results from the machine learning models. Compare the two versions of the dataset predictions. Include your recommendation, if any, for the model to use the original vs. the resampled data. If you don’t recommend either model, justify your reasoning.
+
+The model that used the resampled data was more accurate at predicting the creditworthiness of borrowers.
+
+
 ## Contributors
 
 Created by Bina Jariwala
