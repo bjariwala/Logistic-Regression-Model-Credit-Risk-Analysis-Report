@@ -1,4 +1,4 @@
-# Logistic-Regression-Model-Credit-Risk-Analysis-Report
+# Supervised Learning - Logistic-Regression-Model-Credit-Risk-Analysis-Report
 
 This application analyzing various techniques to train and evaluate models with imbalanced classes. It also helps get the count of the target classes, train a logistic regression classifier, calculate the balanced accuracy score, generate a confusion matrix, and generate a classification report.
 
